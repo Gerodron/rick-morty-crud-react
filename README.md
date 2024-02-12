@@ -1,8 +1,5 @@
-# React + Vite
+# Pagina de Rick & Morty
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto consiste en una página web sencilla que consume la API de Rick y Morty. Utiliza React para crear una interfaz amigable donde l 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Además de la funcionalidad principal de consumir la API, el proyecto incluye hooks personalizados que facilitan el manejo y la gestión de datos provenientes de la API. Estos hooks están diseñados específicamente para mejorar la eficiencia y la reutilización del código al interactuar con la API de Rick y Morty. 
